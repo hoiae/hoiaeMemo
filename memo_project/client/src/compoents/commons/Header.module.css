@@ -1,0 +1,28 @@
+.HeaderStyle{
+    
+    width: 1920px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.innerStyle{
+  
+  
+    left: 360px;
+    top: 57px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 87px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.017em;
+
+    color: #000000;
+
+}

@@ -1,0 +1,15 @@
+.OuterStyle{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14px 25px;
+    gap: 2px;
+    
+    width: 1200px;
+    height: 710px;
+    
+    border-width: 0px 1px;
+    border-style: solid;
+    border-color: #C4C4C4;
+}

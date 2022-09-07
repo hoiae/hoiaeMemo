@@ -1,0 +1,21 @@
+.FooterBoxStyle{
+
+    width: 1920px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.innerStyle{
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 87px;
+    letter-spacing: -0.017em;
+
+    color: #000000;
+}
